@@ -1,0 +1,14 @@
+.header-page {
+    display: flex;
+}
+.team {
+    display: flex;
+}
+.foto {
+    width: 264px;
+        height:
+            260px;
+        gap: 0px;
+        opacity: 0px;
+        display: flex;
+}
